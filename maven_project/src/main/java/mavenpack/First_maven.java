@@ -4,6 +4,7 @@ public class First_maven {
 
 	public static void main(String[] args) {
 		System.out.println("hello world");
+		System.out.println("Test check edit by Navami");
 
 	}
 
